@@ -204,39 +204,17 @@
               </div>
 
             </div>
+            <h1>TEST</h1>
+
+
+
+
+
+
+
+
+
             <div>
-              <h1>asd</h1>
-              <div>
-                <div class="tableHeader">
-                  <div></div>
-                  <div>monday</div>
-                  <div>tuesday</div>
-                  <div>wednesday</div>
-                  <div>thursday</div>
-                  <div>friday</div>
-                  <div class="weekend">saturday</div>
-                  <div class="weekend">sunday</div>
-                </div>
-                <div class="tableRow">
-                  <div>9:00 - 10:30</div>
-                  <div>Data Structure and Algorithms<br>Adil Khan<br>106</div>
-                  <div>Linear Algebra Nikolay Shilov 105</div>
-                  <div>Introduction To Programming Giancarlo Succi 107</div>
-                  <div>Database Models Roberto Chaves 101</div>
-                  <div>Statistics Artem Kruglov 318</div>
-                  <div>Free</div>
-                  <div>Free</div>
-                </div>
-              </div>
-
-              <!-- <div>9:00 - 10:30</div>
-                <div>10:40 - 12:10</div>
-                <div>12:30 - 14:00</div>
-                <div>14:10 - 15:40</div>
-                <div>15:50 - 17:20</div>
-                <div>17:30 - 19:00</div>
-                <div>19:10 - 20:50</div> -->
-
               <button class="btn btn-success" v-on:click="GenerateTimeTable"
                 style="position: relative;top: 50px;float: left; background-color: #f4511e;font-family: Montserrat;color:#fafafa;">
                 Generate PDF
@@ -403,17 +381,7 @@ export default {
   },
 };
 </script>
-<style scoped>  
-.tableHeader {
-  text-transform: uppercase;
-  display: flex;
-  gap: 10px;
-}
-.tableHeader > div {
-  border: 1px solid black;
-
-}
-.generator-text18 {
+<style scoped>  .generator-text18 {
     color: black;
     height: auto;
     font-size: 16px;
@@ -795,6 +763,5 @@ export default {
     .logo {
       font-size: 150px;
     }
-  }
-</style>
+  }</style>
 
