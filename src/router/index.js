@@ -17,7 +17,8 @@ const routes = [
     path: "/addcourse",
     name: "addcourse",
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/AddCourseView.vue"),
+      import(/* webpackChunkName: "about" */ "../views/GetCoursesView.vue"),
+      // import(/* webpackChunkName: "about" */ "../views/AddCourseView.vue"),
   },
   {
     path: "/generator",
