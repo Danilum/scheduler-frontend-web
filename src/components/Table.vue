@@ -4,7 +4,7 @@
             <thead>
                 <tr>
                     <!-- loop through each value of the fields to get the table header -->
-                    <th  v-for="field in fields" :key='field' @click="sortTable(field)" > 
+                    <th  v-for="field in fields" :key='field' @click="sortTable(field)"> 
                     {{field}} <i class="bi bi-sort-alpha-down" aria-label='Sort Icon'></i>
                     </th>
                 </tr>
@@ -18,19 +18,20 @@
                 </tr>
             </tbody>
         </table> 
-</div>
+    </div>
 </template>
+
 <script>
-export default {
-name: 'Table',
-props:{
-    // 
-    studentData:{
-        type: Array,
-    },
-    fields:{
-        type: Array,
+    export default {
+        name: 'Table',
+        props:{
+            // 
+            studentData:{
+                type: Array,
+            },
+            fields:{
+                type: Array,
+            }
+        }, 
     }
-}, 
-}
 </script>
