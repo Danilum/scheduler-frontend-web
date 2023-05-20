@@ -14,6 +14,12 @@ module.exports = {
         subtitle2: ['0.75rem', '0.75rem'],
         otp: ['2.063rem', '3rem'],
       },
+      colors: {
+        'time-slot': '#f0f0f0',
+        'time-slot-divider': '#000000',
+        'time-slot-subject':'#79ab87',
+        'time-slot-subject-common':'#7d85c7',
+      }
     },
   },
   plugins: [],

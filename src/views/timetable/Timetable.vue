@@ -1,26 +1,29 @@
 <script lang="ts">
 import {ref} from "vue";
-import {timeTable} from "@/views/timetable/feature-api";
+import {timeTable, getSchedule} from "@/views/timetable/feature-api";
 import Button from "@/components/Button.vue";
-import {Study, SubGroupsTable, TimeTable} from "@/views/timetable/feature-rules";
-
+import {Schedule, Study, SubGroupsTable, TimeTable} from "@/views/timetable/feature-rules";
+import ScheduleVue from "./ui/Schedule.vue"
 export default {
   name: "Timetable",
-  components: {Button},
+  components: {Button,ScheduleVue},
   setup() {
 
-    const selectedTable = ref<SubGroupsTable[]>()
+    const selectedTable = ref<TimeTable>()
     const selectedSchedule = ref<Study[]>()
     const tableName = ref<string>()
     const subGroupName = ref<string>()
+    const fullSchedule = ref<Schedule[]>()
 
     const changeTable = (table: TimeTable) => {
       tableName.value = table.group
-      selectedTable.value = table.subGroupsTable
+      selectedTable.value = table
+      selectedSchedule.value = table.subGroupsTable[0].study
     }
-    const changeSchedule = (subGroupTable: SubGroupsTable) => {
+    const changeSchedule = (subGroupTable: SubGroupsTable, common: Array<Study>) => {
       subGroupName.value = subGroupTable.subgroup
       selectedSchedule.value = subGroupTable.study
+      fullSchedule.value = getSchedule(selectedSchedule.value, common )
     }
 
     return {
@@ -30,7 +33,8 @@ export default {
       changeTable,
       changeSchedule,
       tableName,
-      subGroupName
+      subGroupName,
+      fullSchedule
     }
   },
   computed: {}
@@ -53,15 +57,14 @@ export default {
     <!--  Select Groups  -->
     <div v-if="selectedTable" class="flex flex-row gap-4">
       <p class="text-body font-semibold">Select Group:</p>
-      <div v-for="item in selectedTable" :key="item">
-        <button @click="changeSchedule(item)">{{ item.subgroup }}</button>
+      <div v-for="item in selectedTable.subGroupsTable" :key="item">
+        <button @click="changeSchedule(item, selectedTable.study )">{{ item.subgroup }}</button>
       </div>
     </div>
     <!--  Schedule  -->
     <div v-if="selectedSchedule" class="flex flex-col gap-2">
       <p> Time table for {{subGroupName}} of {{tableName}} </p>
-      <p>{{selectedSchedule}}</p>
-
+      <ScheduleVue :schedule="fullSchedule"></ScheduleVue>
     </div>
   </div>
 </template>
