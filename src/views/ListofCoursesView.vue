@@ -86,11 +86,11 @@
           <div class="form-group pull-left">
               <!-- <input type="text" class="sea  rch form-control" placeholder="What you looking for?"> -->
           </div>
-          <div style="float: right; position: relative; top:60px">
-            <button type="submit" class="btn btn-success" style="background-color: #f4511e;font-family: Montserrat;">Core</button>
-            <button type="submit" class="btn btn-success" style="background-color: gainsboro;font-family: Montserrat;">Elective</button>
-            <br><br>
-          </div>
+<!--          <div style="float: right; position: relative; top:60px">-->
+<!--            <button type="submit" class="btn btn-success" style="background-color: #f4511e;font-family: Montserrat;">Core</button>-->
+<!--            <button type="submit" class="btn btn-success" style="background-color: gainsboro;font-family: Montserrat;">Elective</button>-->
+<!--            <br><br>-->
+<!--          </div>-->
         </div>
         
         <div class="row" style="margin-right: 0px;">
@@ -112,8 +112,10 @@
                                 <table class="table table-striped mb-0">
                                   <thead style="background-color: white;">
                                     <tr style="font-size: 12px;">
+                                      <th scope="col">START TIME</th>
+                                      <th scope="col">END TIME</th>
                                       <th scope="col">COURSE NAME</th>
-                                      <th scope="col" style="float:center">PROFESSOR'S NAME</th>
+                                      <th scope="col">PROFESSOR'S NAME</th>
                                       <th scope="col">ONLINE/OFFLINE</th>
                                       <th scope="col">ROOM NUMBER</th>
                                     </tr>
@@ -123,6 +125,8 @@
                                   <tbody style="color:black">
 
                                     <tr v-for="(item, index) in courses" :key="index">
+                                      <td  style="text-align: left;">{{item.start_time}}</td>
+                                      <td  style="text-align: left;">{{item.end_time}}</td>
                                       <td  style="text-align: left;">{{item.courseName}}</td>
                                       <td  style="text-align: left;">{{item.profName}}</td>
                                       <td  style="text-align: left;">{{item.format}}</td>
@@ -172,7 +176,7 @@
         components: { Button },
         methods:{
           GenerateTimeTable() {
-            alert('Generate TimeTable');
+            router.push({ path: '../generator'})
           },
           redirectToLogin(){
             router.push({ path: '../'})
@@ -185,13 +189,13 @@
           }, 
         },
         getCourses: function () {
-        var self = this
-        const url = ''//api url
-        axios.get(url, {
-          dataType: 'json',
-          headers: {'Accept': 'application/json','Content-Type': 'application/json'},
-          mode: 'no-cors',
-          credentials: 'include'
+          var self = this
+          const url = ''//api url
+          axios.get(url, {
+            dataType: 'json',
+            headers: {'Accept': 'application/json','Content-Type': 'application/json'},
+            mode: 'no-cors',
+            credentials: 'include'
         })
         .then(function (response) {
           console.log(JSON.stringify(response.data))
@@ -208,10 +212,28 @@
           return {
             courses: [
               {
-                'courseName':'Introduct to AI',
-                'profName': 'Manual Mazzara',
-                'format': 'Online',
-                'roomnum': '121'
+                'start_time': '09:00',
+                'end_time': '10:30',
+                'courseName':'Introduction to AI',
+                'profName': 'Konstantin Pavlov',
+                'format': 'Offline',
+                'roomnum': '108'
+              },
+              {
+                'start_time': '10:30',
+                'end_time': '12:00',
+                'courseName':'Databases Modelling',
+                'profName': 'Manuel Mazzara',
+                'format': 'Offline',
+                'roomnum': '321'
+              },
+              {
+                'start_time': '12:30',
+                'end_time': '14:00',
+                'courseName':'Compilers Construction',
+                'profName': 'Eugeny Zuev',
+                'format': 'Offline',
+                'roomnum': '104'
               },
             ],
           }
