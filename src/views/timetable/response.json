@@ -1,0 +1,688 @@
+[
+  {
+    "group": "BS - Year 1",
+    "study": [
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "startTime": "9:00",
+            "endTime": "10:30",
+            "subject": "Lecture 1",
+            "numberOfStudents": 34,
+            "instructor": "instructor 1",
+            "room": 110
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Lecture 1 (TUT)",
+            "numberOfStudents": 35,
+            "instructor": "instructor 2",
+            "room": 108
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "13:30",
+            "subject": "*FREE*",
+            "numberOfStudents": null,
+            "instructor": null,
+            "room": null
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "startTime": "9:00",
+            "endTime": "10:30",
+            "subject": "Lecture 2",
+            "numberOfStudents": 45,
+            "instructor": "instructor 1",
+            "room": 111
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Lecture 2 (TUT)",
+            "numberOfStudents": 35,
+            "instructor": "instructor 2",
+            "room": 104
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "startTime": "9:00",
+            "endTime": "10:30",
+            "subject": "Lecture 2",
+            "numberOfStudents": 45,
+            "instructor": "instructor 1",
+            "room": 111
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Lecture 2 (TUT)",
+            "numberOfStudents": 35,
+            "instructor": "instructor 2",
+            "room": 104
+          }
+        ]
+      }
+    ],
+    "subGroupsTable": [
+      {
+        "subgroup": "B22-CS-99",
+        "study": [
+          {
+            "day": "Monday",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "fvsfsvsv brvrvrrf bgbvgbgfff",
+                "numberOfStudents": 34,
+                "assistant": "assistant fffggfg ghtbtbt",
+                "room": 110
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "lab 2",
+                "numberOfStudents": 35,
+                "assistant": "assistant 2",
+                "room": 108
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 45,
+                "assistant": "assistant 1",
+                "room": 111
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 35,
+                "assistant": "assistant 2",
+                "room": 104
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-CS-04",
+        "study": [
+          {
+            "day": "Monday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 32,
+                "assistant": "assistant 1",
+                "room": 110
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 37,
+                "assistant": "assistant 2",
+                "room": 108
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 30,
+                "assistant": "assistant 1",
+                "room": 111
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 25,
+                "assistant": "assistant 2",
+                "room": 104
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "BS - Year 2",
+    "study": [
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "startTime": "9:00",
+            "endTime": "10:30",
+            "subject": "Lecture 1",
+            "numberOfStudents": 34,
+            "instructor": "instructor 1",
+            "room": 110
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Lecture 1 (TUT)",
+            "numberOfStudents": 35,
+            "instructor": "instructor 2",
+            "room": 108
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "13:30",
+            "subject": "*FREE*",
+            "numberOfStudents": null,
+            "instructor": null,
+            "room": null
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "startTime": "9:00",
+            "endTime": "10:30",
+            "subject": "Lecture 2",
+            "numberOfStudents": 45,
+            "instructor": "instructor 1",
+            "room": 111
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Lecture 2 (TUT)",
+            "numberOfStudents": 35,
+            "instructor": "instructor 2",
+            "room": 104
+          }
+        ]
+      }
+    ],
+    "subGroupsTable": [
+      {
+        "subgroup": "B22-CS-01",
+        "study": [
+          {
+            "day": "Monday",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 1",
+                "numberOfStudents": 34,
+                "assistant": "assistant 1",
+                "room": 110
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "lab 2",
+                "numberOfStudents": 35,
+                "assistant": "assistant 2",
+                "room": 108
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 45,
+                "assistant": "assistant 1",
+                "room": 111
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 35,
+                "assistant": "assistant 2",
+                "room": 104
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-CS-02",
+        "study": [
+          {
+            "day": "Monday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 32,
+                "assistant": "assistant 1",
+                "room": 110
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 37,
+                "assistant": "assistant 2",
+                "room": 108
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 30,
+                "assistant": "assistant 1",
+                "room": 111
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 25,
+                "assistant": "assistant 2",
+                "room": 104
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "BS - Year 3",
+    "study": [
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "startTime": "9:00",
+            "endTime": "10:30",
+            "subject": "Lecture 1",
+            "numberOfStudents": 34,
+            "instructor": "instructor 1",
+            "room": 110
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Lecture 1 (TUT)",
+            "numberOfStudents": 35,
+            "instructor": "instructor 2",
+            "room": 108
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "13:30",
+            "subject": "*FREE*",
+            "numberOfStudents": null,
+            "instructor": null,
+            "room": null
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "startTime": "9:00",
+            "endTime": "10:30",
+            "subject": "Lecture 2",
+            "numberOfStudents": 45,
+            "instructor": "instructor 1",
+            "room": 111
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Lecture 2 (TUT)",
+            "numberOfStudents": 35,
+            "instructor": "instructor 2",
+            "room": 104
+          }
+        ]
+      }
+    ],
+    "subGroupsTable": [
+      {
+        "subgroup": "B22-CS-01",
+        "study": [
+          {
+            "day": "Monday",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 1",
+                "numberOfStudents": 34,
+                "assistant": "assistant 1",
+                "room": 110
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "lab 2",
+                "numberOfStudents": 35,
+                "assistant": "assistant 2",
+                "room": 108
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 45,
+                "assistant": "assistant 1",
+                "room": 111
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 35,
+                "assistant": "assistant 2",
+                "room": 104
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-CS-08",
+        "study": [
+          {
+            "day": "Monday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 32,
+                "assistant": "assistant 1",
+                "room": 110
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 37,
+                "assistant": "assistant 2",
+                "room": 108
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 30,
+                "assistant": "assistant 1",
+                "room": 111
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 25,
+                "assistant": "assistant 2",
+                "room": 104
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 30,
+                "assistant": "assistant 1",
+                "room": 111
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 25,
+                "assistant": "assistant 2",
+                "room": 104
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "group": "BS - Year 4",
+    "study": [
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "startTime": "9:00",
+            "endTime": "10:30",
+            "subject": "Lecture 1",
+            "numberOfStudents": 34,
+            "instructor": "instructor 1",
+            "room": 110
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Lecture 1 (TUT)",
+            "numberOfStudents": 35,
+            "instructor": "instructor 2",
+            "room": 108
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "13:30",
+            "subject": "*FREE*",
+            "numberOfStudents": null,
+            "instructor": null,
+            "room": null
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "startTime": "9:00",
+            "endTime": "10:30",
+            "subject": "Lecture 2",
+            "numberOfStudents": 45,
+            "instructor": "instructor 1",
+            "room": 111
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Lecture 2 (TUT)",
+            "numberOfStudents": 35,
+            "instructor": "instructor 2",
+            "room": 104
+          }
+        ]
+      }
+    ],
+    "subGroupsTable": [
+      {
+        "subgroup": "B22-CS-06",
+        "study": [
+          {
+            "day": "Monday",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 1",
+                "numberOfStudents": 34,
+                "assistant": "assistant 1",
+                "room": 110
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "lab 2",
+                "numberOfStudents": 35,
+                "assistant": "assistant 2",
+                "room": 108
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 45,
+                "assistant": "assistant 1",
+                "room": 111
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 35,
+                "assistant": "assistant 2",
+                "room": 104
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-CS-02",
+        "study": [
+          {
+            "day": "Monday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 32,
+                "assistant": "assistant 1",
+                "room": 110
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 37,
+                "assistant": "assistant 2",
+                "room": 108
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "periods": [
+              {
+                "startTime": "12:00",
+                "endTime": "13:30",
+                "lab": "lab 1",
+                "numberOfStudents": 30,
+                "assistant": "assistant 1",
+                "room": 111
+              },
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "lab 2",
+                "numberOfStudents": 25,
+                "assistant": "assistant 2",
+                "room": 104
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

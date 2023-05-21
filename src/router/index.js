@@ -18,12 +18,13 @@ const routes = [
     name: "addcourse",
     component: () =>
       import(/* webpackChunkName: "about" */ "../views/AddCourseView.vue"),
+      // import(/* webpackChunkName: "about" */ "../views/AddCourseView.vue"),
   },
   {
     path: "/generator",
     name: "generator",
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/GenerateTimetable"),
+      import("../views/timetable/Timetable.vue"),
   },
   {
     path: "/listofcourses",

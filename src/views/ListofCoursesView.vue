@@ -6,9 +6,9 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-      </head>
+    </head>
     
-      <body>
+    <body>
     <nav class="navbar navbar-inverse" style="background-color: #fafafa; padding:3px">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -41,7 +41,7 @@
     <div class="container-fluid">
       <div class="row content">
         <div class="col-sm-3 sidenav">
-      <br>
+          <br>
           <ul class="nav nav-pills nav-stacked" style="position:relative;right:40px">
             <li></li>
             <li>
@@ -64,15 +64,14 @@
                 <div style="position:relative">
                     <img src="@/assets/images/mditimetablei119-k36h.svg" style="position: relative;right: 25px;">
                     
-                   
                     <a href="#" v-on:click="GenerateTimeTable" style="position: relative;right: 18px;font-family: Montserrat;color:black">
     
                         Generate Timetable
                     </a>
                 </div>
             </li>
-           
-          </ul><br>
+          </ul>
+          <br>
         </div>
     
         <div class="col-sm-9">
@@ -82,67 +81,65 @@
                 <img src="data:image/png;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQBgCdASr/AwEAPm02mUmCCIAIANiWlu4XSQAE9tiLxBUc9sReIKjntiLxBUc9sReIKjntiLxBNgAA/v8eSAAAAAA=" alt="Rectangle5111196" class="generator-rectangle511" data-v-bdec7dd4="">
             </div>
           </form>
-          
+        </div>
+        <div>
+          <div class="form-group pull-left">
+              <!-- <input type="text" class="sea  rch form-control" placeholder="What you looking for?"> -->
           </div>
-          <div>
-            <div class="form-group pull-left">
-                <!-- <input type="text" class="sea  rch form-control" placeholder="What you looking for?"> -->
-            </div>
           <div style="float: right; position: relative; top:60px">
             <button type="submit" class="btn btn-success" style="background-color: #f4511e;font-family: Montserrat;">Core</button>
             <button type="submit" class="btn btn-success" style="background-color: gainsboro;font-family: Montserrat;">Elective</button>
             <br><br>
           </div>
-          
         </div>
         
         <div class="row" style="margin-right: 0px;">
         
 
             
-        <div class="col-md-8" style="position: relative;padding-right: 0px;padding-left: 0px; left: 30px; top: 60px; background-color: white;" >
-           
+          <div class="col-md-8" style="position: relative;padding-right: 0px;padding-left: 0px; left: 30px; top: 60px; background-color: white;" >
+            
             <div>
-<section class="intro">
-  <div class="bg-image h-100" style="background-color: ;">
-    <div class="mask d-flex align-items-center h-100">
-      <div class="container" style="margin-right: 0px; width: 912px;">
-        <div class="row justify-content-center">
-          <div class="col-12">
-            <div class="card">
-              <div class="card-body p-0">
-                <div class="table-responsive table-scroll" data-mdb-perfect-scrollbar="true">
-                  <table class="table table-striped mb-0">
-                    <thead style="background-color: white;">
-                      <tr style="font-size: 12px;">
-                        <th scope="col">COURSE NAME</th>
-                        <th scope="col" style="float:center">PROFESSOR'S NAME</th>
-                        <th scope="col">ONLINE/OFFLINE</th>
-                        <th scope="col">ROOM NUMBER</th>
-                      </tr>
-                    </thead>
+              <section class="intro">
+                <div class="bg-image h-100" style="background-color: ;">
+                  <div class="mask d-flex align-items-center h-100">
+                    <div class="container" style="margin-right: 0px; width: 912px;">
+                      <div class="row justify-content-center">
+                        <div class="col-12">
+                          <div class="card">
+                            <div class="card-body p-0">
+                              <div class="table-responsive table-scroll" data-mdb-perfect-scrollbar="true">
+                                <table class="table table-striped mb-0">
+                                  <thead style="background-color: white;">
+                                    <tr style="font-size: 12px;">
+                                      <th scope="col">COURSE NAME</th>
+                                      <th scope="col" style="float:center">PROFESSOR'S NAME</th>
+                                      <th scope="col">ONLINE/OFFLINE</th>
+                                      <th scope="col">ROOM NUMBER</th>
+                                    </tr>
+                                  </thead>
 
-                    <!-- Dynamically creating the courses. -->
-                    <tbody style="color:black">
+                                  <!-- Dynamically creating the courses. -->
+                                  <tbody style="color:black">
 
-                      <tr v-for="(item, index) in courses" :key="index">
-                        <td  style="text-align: left;">{{item.courseName}}</td>
-                        <td  style="text-align: left;">{{item.profName}}</td>
-                        <td  style="text-align: left;">{{item.format}}</td>
-                        <td  style="text-align: left;">{{item.roomnum}}</td>
-                      </tr>
+                                    <tr v-for="(item, index) in courses" :key="index">
+                                      <td  style="text-align: left;">{{item.courseName}}</td>
+                                      <td  style="text-align: left;">{{item.profName}}</td>
+                                      <td  style="text-align: left;">{{item.format}}</td>
+                                      <td  style="text-align: left;">{{item.roomnum}}</td>
+                                    </tr>
 
-                    </tbody>
-                  </table>
+                                  </tbody>
+                                </table>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+              </section>
             </div>
 
             <div>
@@ -150,8 +147,8 @@
                 ADD NEW
               </button>
             </div>
+          </div>
         </div>
-      </div>
       </div>
     </div>
     
@@ -168,62 +165,55 @@
       
       <script>
       
-    import Button from '@/components/Button.vue'
-    import router from '@/router';
+      import Button from '@/components/Button.vue'
+      import router from '@/router';
       export default {
-
-
         name: "HomeView",
         components: { Button },
         methods:{
           GenerateTimeTable() {
             alert('Generate TimeTable');
           },
-    
           redirectToLogin(){
             router.push({ path: '../'})
-            },
+          },
           AddCourse(){
-            router.push({ path: '../addcourse'}) //Need to add addcoursepage route..
+            router.push({ path: '../addcourse'})
           }, 
           ListCourse(){
-            router.push({ path: '../listofcourses'}) //Need to add List of courses route..
+            router.push({ path: '../listofcourses'})
           }, 
-                 
         },
         getCourses: function () {
         var self = this
         const url = ''//api url
         axios.get(url, {
-                dataType: 'json',
-                headers: {'Accept': 'application/json','Content-Type': 'application/json'
-                         },
-        mode: 'no-cors',
-        credentials: 'include'
-    })
-    .then(function (response) {
-      console.log(JSON.stringify(response.data))
-      self.courses = response.data
-    })
-    .catch(function (error) {
-      console.log(error)
-    })
-  }
-        ,
+          dataType: 'json',
+          headers: {'Accept': 'application/json','Content-Type': 'application/json'},
+          mode: 'no-cors',
+          credentials: 'include'
+        })
+        .then(function (response) {
+          console.log(JSON.stringify(response.data))
+          self.courses = response.data
+        })
+        .catch(function (error) {
+          console.log(error)
+        })
+        },
         setup() {
           function login() {
             console.log('login')
           }
           return {
             courses: [
-         {
-            'courseName':'Introduct to AI',
-            'profName': 'Manual Mazzara',
-            'format': 'Online',
-            'roomnum': '121'
-         },
-        
-     ],
+              {
+                'courseName':'Introduct to AI',
+                'profName': 'Manual Mazzara',
+                'format': 'Online',
+                'roomnum': '121'
+              },
+            ],
           }
         },
       };
@@ -594,5 +584,5 @@
           font-size: 150px;
         }
       }
-      </style>
+</style>
       
