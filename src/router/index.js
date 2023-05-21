@@ -1,23 +1,24 @@
 import { createRouter, createWebHistory } from "vue-router";
-import HomeView from "../views/HomeView.vue";
+import HomeView from "../views/LoginPage.vue";
 
 const routes = [
   {
     path: "/",
     name: "home",
-    component: HomeView,
+    component: () =>
+        import("../views/LoginPage.vue"),
   },
   {
     path: "/about",
     name: "about",
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/AboutView.vue"),
+      import("../views/AboutView.vue"),
   },
   {
     path: "/addcourse",
     name: "addcourse",
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/AddCourseView.vue"),
+      import("../views/AddCourseView.vue"),
       // import(/* webpackChunkName: "about" */ "../views/AddCourseView.vue"),
   },
   {
@@ -30,7 +31,7 @@ const routes = [
     path: "/listofcourses",
     name: "listofcourses",
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/ListofCoursesView"),
+      import("../views/ListofCoursesView.vue"),
   },
 ];
 
