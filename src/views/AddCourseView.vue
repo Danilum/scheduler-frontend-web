@@ -2,29 +2,7 @@
   <div class="home">
     <div class="course-page-wrapper">
       
-      <div class="menus">
-        <div class="iu-logo-on-menu-page" id="iu_logo">
-          <img src="@/assets/icons/IU_logo.png" alt="UniversityImage" v-on:click="redirectToLogin"/>
-        </div>
-        
-        <div class="menu-buttons">
-          <div class="add-course-button" v-on:click="redirectToAddCourse">
-            <img src="@/assets/icons/add_course.png" alt="Add logo" class="menu-icon">
-            Add new course
-          </div>
 
-          <div class="list-of-courses-button" v-on:click="redirectToListOfCourses">
-            <img src="@/assets/icons/courses_list.png" alt="Add logo" class="menu-icon">
-            List of courses
-          </div>
-
-          <div class="generator-button" v-on:click="redirectToGenerator">
-            <img src="@/assets/icons/timetable_generator.png" alt="Add logo" class="menu-icon">
-            Generator
-          </div>
-        </div>
-
-        </div>
           <div class="flex-page-container">
           <div>
             <div class="admin-logout-container">

@@ -23,7 +23,7 @@ export default {
 <template>
   <div class="flex flex-col w-full bg-time-slot ">
     <div class="flex flex-row">
-      <div v-for="day in days" class="flex flex-row w-36 h-28 items-center">
+      <div v-for="day in days" class="flex flex-row w-48 h-48 items-center">
         <div class="w-[1px] h-full bg-time-slot-divider">
         </div>
         <p class="w-full text-body  font-bold">{{ day }}</p>
@@ -36,9 +36,9 @@ export default {
     <div v-for="daySlot in schedule">
       <!-- Day row cell -->
       <div class="flex flex-row items-center">
-        <p class="w-36 text-body  font-bold"> {{ daySlot.time }}</p>
+        <p class="w-48 text-body  font-bold"> {{ daySlot.time }}</p>
         <!-- Time cell -->
-        <div v-for="slot in daySlot.slots" class="flex flex-row w-36 h-28">
+        <div v-for="slot in daySlot.slots" class="flex flex-row w-48 h-48">
           <div class="w-[1px] h-full bg-time-slot-divider">
           </div>
 

@@ -11,14 +11,6 @@
     <body>
     <nav class="navbar navbar-inverse" style="background-color: #fafafa; padding:3px">
       <div class="container-fluid">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>                        
-          </button>
-          <img src="@/assets/images/iulogo1i119-0quf.svg" v-on:click="redirectToLogin" style="float:left" width="200" height="50">
-        </div>
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav">
           </ul>
@@ -26,7 +18,7 @@
             <li>
                 <div>
                     <img src="@/assets/images/ellipse1i119-ri5bu-200w.png" style="position:relative; bottom:5px;right: 10px;">
-                    <a href="#" @click=""> 
+                    <a href="#" @click="">
                         <span   v-on:click="redirectToLogin" class="glyphicon glyphicon-log-in" style="position:relative; left:3px;top: 2px;">
                         <b style="font-family: Montserrat">Logout</b>
                     </span>
@@ -40,40 +32,7 @@
      <!-- Need to add method to call here in anchor tag -->
     <div class="container-fluid">
       <div class="row content">
-        <div class="col-sm-3 sidenav">
-          <br>
-          <ul class="nav nav-pills nav-stacked" style="position:relative;right:40px">
-            <li></li>
-            <li>
-                <div style="position:relative;">
-                    <img src="@/assets/images/courseslisti119-tuje.svg" style="position: relative;right: 40px;">
-                    <a href="#" v-on:click="ListCourse" style="position: relative;right: 30px;font-family: Montserrat;color:black">
-                        List of Courses</a>
-                </div>
-            </li>
-            <br>
-            <li>
-                <div style="position:relative">
-                    <img src="@/assets/images/icbaselinepostaddi119-z5c5.svg" style="position: relative;right: 34px;">
-                    <a href="#" v-on:click="AddCourse" style="position: relative;right: 25px;font-family: Montserrat; color:black">
-                        Add New Course</a>
-                </div>
-            </li>
-            <br>
-            <li>
-                <div style="position:relative">
-                    <img src="@/assets/images/mditimetablei119-k36h.svg" style="position: relative;right: 25px;">
-                    
-                    <a href="#" v-on:click="GenerateTimeTable" style="position: relative;right: 18px;font-family: Montserrat;color:black">
-    
-                        Generate Timetable
-                    </a>
-                </div>
-            </li>
-          </ul>
-          <br>
-        </div>
-    
+
         <div class="col-sm-9">
           <form role="form">
             <div class="form-group">
@@ -92,13 +51,13 @@
 <!--            <br><br>-->
 <!--          </div>-->
         </div>
-        
-        <div class="row" style="margin-right: 0px;">
-        
 
-            
+        <div class="row" style="margin-right: 0px;">
+
+
+
           <div class="col-md-8" style="position: relative;padding-right: 0px;padding-left: 0px; left: 30px; top: 60px; background-color: white;" >
-            
+
             <div>
               <section class="intro">
                 <div class="bg-image h-100" style="background-color: ;">
@@ -155,7 +114,7 @@
         </div>
       </div>
     </div>
-    
+
         
     <footer class="container-fluid" style="background-color: #fafafa">
       <p></p>
