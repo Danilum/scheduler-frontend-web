@@ -9,7 +9,7 @@
             "startTime": "09:00",
             "endTime": "10:30",
             "subject": "Data Structures and Algorithms  - (LEC)",
-            "numberOfStudents": 70,
+            "numberOfStudents": 60,
             "instructor": "Nikolay Kudasov",
             "room": 105
           },
@@ -17,7 +17,7 @@
             "startTime": "10:30",
             "endTime": "12:00",
             "subject": "Data Structures and Algorithms  - (TUT)",
-            "numberOfStudents": 70,
+            "numberOfStudents": 60,
             "instructor": "Nikolay Kudasov",
             "room": 106
           },
@@ -25,7 +25,7 @@
             "startTime": "12:00",
             "endTime": "13:30",
             "subject": "Software Systems Analysis and Design - (LEC)",
-            "numberOfStudents": 97,
+            "numberOfStudents": 84,
             "instructor": "Evgeni Zouev",
             "room": 108
           }
@@ -38,7 +38,7 @@
             "startTime": "09:00",
             "endTime": "10:30",
             "subject": "Software Systems Analysis and Design - (TUT)",
-            "numberOfStudents": 97,
+            "numberOfStudents": 84,
             "instructor": "Imam Muwaffaq",
             "room": 106
           },
@@ -46,7 +46,7 @@
             "startTime": "10:30",
             "endTime": "12:00",
             "subject": "Elective courses on Physical Education",
-            "numberOfStudents": 98,
+            "numberOfStudents": 51,
             "instructor": "Professor1",
             "room": 108
           }
@@ -59,7 +59,7 @@
             "startTime": "09:00",
             "endTime": "10:30",
             "subject": "Theoretical Computer Science - (LEC)",
-            "numberOfStudents": 52,
+            "numberOfStudents": 89,
             "instructor": "Manuel Mazzara",
             "room": 106
           },
@@ -67,7 +67,7 @@
             "startTime": "10:30",
             "endTime": "12:00",
             "subject": "Theoretical Computer Science - (TUT)",
-            "numberOfStudents": 52,
+            "numberOfStudents": 89,
             "instructor": "Andrey Frolov",
             "room": 106
           }
@@ -80,7 +80,7 @@
             "startTime": "09:00",
             "endTime": "10:30",
             "subject": "Analytical Geometry and Linear Algebra II - (LEC)",
-            "numberOfStudents": 56,
+            "numberOfStudents": 58,
             "instructor": "Yaroslav Kholodov",
             "room": 107
           },
@@ -88,7 +88,7 @@
             "startTime": "10:30",
             "endTime": "12:00",
             "subject": "Analytical Geometry and Linear Algebra II - (TUT)",
-            "numberOfStudents": 56,
+            "numberOfStudents": 58,
             "instructor": "Yaroslav Kholodov",
             "room": 105
           }
@@ -101,7 +101,7 @@
             "startTime": "09:00",
             "endTime": "10:30",
             "subject": "Mathematical Analysis II - (LEC)",
-            "numberOfStudents": 56,
+            "numberOfStudents": 96,
             "instructor": "Oleg Kiselev",
             "room": 107
           },
@@ -109,7 +109,7 @@
             "startTime": "10:30",
             "endTime": "12:00",
             "subject": "Mathematical Analysis II - (TUT)",
-            "numberOfStudents": 56,
+            "numberOfStudents": 96,
             "instructor": "Imre Delgado",
             "room": 108
           }
@@ -134,17 +134,17 @@
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Al Badr Amer",
+                "room": 300
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Data Structures and Algorithms  - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Alaa Aldin Hajjar",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Oleg Bulichev",
                 "room": 300
               },
               {
@@ -163,18 +163,18 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Oleg Bulichev",
-                "room": 300
-              },
-              {
-                "startTime": "15:00",
-                "endTime": "16:30",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Ramil Nasibullin",
+                "room": 300
               },
               {
                 "startTime": "16:30",
@@ -187,10 +187,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Marina Lisnichenko",
+                "room": 300
               }
             ]
           },
@@ -201,33 +201,33 @@
                 "startTime": "13:30",
                 "endTime": "15:00",
                 "lab": "Theoretical Computer Science - (LAB)",
-                "numberOfStudents": 37,
+                "numberOfStudents": 47,
                 "assistant": "Al Badr Amer",
                 "room": 300
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 300
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
               },
               {
-                "startTime": "16:30",
-                "endTime": "18:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Ramil Nasibullin",
-                "room": 300
-              },
-              {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Elective courses on Physical Education - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Assistant5",
-                "room": 300
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           },
@@ -237,10 +237,10 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Ramil Nasibullin",
-                "room": 300
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "15:00",
@@ -253,18 +253,18 @@
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "English for Academic Purposes I - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Alaa Aldin Hajjar",
                 "room": 300
               },
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Software Systems Analysis and Design - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Marina Lisnichenko",
-                "room": 300
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           },
@@ -290,10 +290,10 @@
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 300
               },
               {
                 "startTime": "18:00",
@@ -316,34 +316,34 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 30,
-                "assistant": "Ramil Nasibullin",
-                "room": 312
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 321
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Software Systems Analysis and Design - (LAB)",
-                "numberOfStudents": 30,
-                "assistant": "Marko Pezer",
-                "room": 312
-              },
-              {
-                "startTime": "18:00",
-                "endTime": "19:30",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Munir Makhmutov",
+                "room": 300
               }
             ]
           },
@@ -353,10 +353,10 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 30,
-                "assistant": "Ramil Nasibullin",
-                "room": 312
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Munir Makhmutov",
+                "room": 300
               },
               {
                 "startTime": "15:00",
@@ -369,10 +369,10 @@
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
-                "numberOfStudents": 30,
-                "assistant": "Ramil Nasibullin",
-                "room": 312
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 300
               },
               {
                 "startTime": "18:00",
@@ -390,26 +390,26 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Marko Pezer",
+                "room": 321
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 321
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Elective courses on Physical Education - (LAB)",
-                "numberOfStudents": 30,
-                "assistant": "Assistant4",
-                "room": 312
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "18:00",
@@ -435,18 +435,18 @@
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Data Structures and Algorithms  - (LAB)",
-                "numberOfStudents": 30,
-                "assistant": "Alaa Aldin Hajjar",
-                "room": 312
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Ramil Nasibullin",
+                "room": 300
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "English for Academic Purposes I - (LAB)",
-                "numberOfStudents": 30,
-                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
-                "room": 312
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Ramil Nasibullin",
+                "room": 321
               },
               {
                 "startTime": "18:00",
@@ -488,10 +488,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Theoretical Computer Science - (LAB)",
-                "numberOfStudents": 30,
-                "assistant": "Munir Makhmutov",
-                "room": 312
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           }
@@ -506,18 +506,18 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Ramil Nasibullin",
-                "room": 300
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Ivan Konyukhov",
-                "room": 300
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Khaled Ismaeel",
+                "room": 307
               },
               {
                 "startTime": "16:30",
@@ -530,10 +530,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Data Structures and Algorithms  - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Khaled Ismaeel",
-                "room": 300
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           },
@@ -551,26 +551,26 @@
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Software Systems Analysis and Design - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Marko Pezer",
-                "room": 300
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Khaled Ismaeel",
+                "room": 321
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Ramil Nasibullin",
+                "room": 321
               },
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Elective courses on Physical Education - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Assistant3",
-                "room": 300
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Munir Makhmutov",
+                "room": 321
               }
             ]
           },
@@ -596,10 +596,10 @@
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Ivan Konyukhov",
+                "room": 300
               },
               {
                 "startTime": "18:00",
@@ -617,10 +617,10 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Ramil Nasibullin",
-                "room": 321
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "15:00",
@@ -641,10 +641,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Marko Pezer",
+                "room": 300
               }
             ]
           },
@@ -654,34 +654,34 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
-              },
-              {
-                "startTime": "15:00",
-                "endTime": "16:30",
                 "lab": "English for Academic Purposes I - (LAB)",
-                "numberOfStudents": 37,
+                "numberOfStudents": 35,
                 "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
                 "room": 300
               },
               {
-                "startTime": "16:30",
-                "endTime": "18:00",
+                "startTime": "15:00",
+                "endTime": "16:30",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
               },
               {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Munir Makhmutov",
+                "room": 321
+              },
+              {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Theoretical Computer Science - (LAB)",
-                "numberOfStudents": 37,
-                "assistant": "Munir Makhmutov",
-                "room": 300
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           }
@@ -696,10 +696,10 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "English for Academic Purposes I - (LAB)",
-                "numberOfStudents": 21,
-                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
-                "room": 103
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Andrey Frolov",
+                "room": 301
               },
               {
                 "startTime": "15:00",
@@ -720,10 +720,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
-                "numberOfStudents": 21,
-                "assistant": "Ivan Konyukhov",
-                "room": 103
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           },
@@ -757,10 +757,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Data Structures and Algorithms  - (LAB)",
-                "numberOfStudents": 21,
-                "assistant": "Khaled Ismaeel",
-                "room": 103
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Zlata Shchedrikova",
+                "room": 301
               }
             ]
           },
@@ -770,18 +770,18 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Ivan Konyukhov",
+                "room": 301
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Khaled Ismaeel",
+                "room": 301
               },
               {
                 "startTime": "16:30",
@@ -794,10 +794,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 21,
-                "assistant": "Zlata Shchedrikova",
-                "room": 103
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Khaled Ismaeel",
+                "room": 301
               }
             ]
           },
@@ -807,34 +807,34 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Fahima Mokhtari",
+                "room": 301
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Theoretical Computer Science - (LAB)",
-                "numberOfStudents": 21,
-                "assistant": "Andrey Frolov",
-                "room": 103
-              },
-              {
-                "startTime": "16:30",
-                "endTime": "18:00",
-                "lab": "Software Systems Analysis and Design - (LAB)",
-                "numberOfStudents": 21,
-                "assistant": "Fahima Mokhtari",
-                "room": 103
-              },
-              {
-                "startTime": "18:00",
-                "endTime": "19:30",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Andrey Frolov",
+                "room": 301
               }
             ]
           },
@@ -852,26 +852,26 @@
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 301
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
               },
               {
-                "startTime": "16:30",
-                "endTime": "18:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 21,
-                "assistant": "Zlata Shchedrikova",
-                "room": 103
-              },
-              {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Elective courses on Physical Education - (LAB)",
-                "numberOfStudents": 21,
-                "assistant": "Assistant2",
-                "room": 103
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           }
@@ -886,18 +886,18 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Ivan Konyukhov",
+                "room": 104
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Elective courses on Physical Education - (LAB)",
-                "numberOfStudents": 28,
-                "assistant": "Assistant1",
-                "room": 320
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 104
               },
               {
                 "startTime": "16:30",
@@ -910,10 +910,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "English for Academic Purposes I - (LAB)",
-                "numberOfStudents": 28,
-                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
-                "room": 320
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Khaled Ismaeel",
+                "room": 104
               }
             ]
           },
@@ -923,26 +923,26 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Andrey Frolov",
+                "room": 104
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Zlata Shchedrikova",
+                "room": 104
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Theoretical Computer Science - (LAB)",
-                "numberOfStudents": 28,
-                "assistant": "Andrey Frolov",
-                "room": 320
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "18:00",
@@ -960,10 +960,10 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Fahima Mokhtari",
+                "room": 104
               },
               {
                 "startTime": "15:00",
@@ -984,10 +984,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Andrey Frolov",
+                "room": 104
               }
             ]
           },
@@ -1005,10 +1005,10 @@
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Software Systems Analysis and Design - (LAB)",
-                "numberOfStudents": 28,
-                "assistant": "Fahima Mokhtari",
-                "room": 320
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "16:30",
@@ -1021,10 +1021,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 28,
-                "assistant": "Zlata Shchedrikova",
-                "room": 320
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           },
@@ -1034,34 +1034,34 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Khaled Ismaeel",
+                "room": 104
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
               },
               {
-                "startTime": "15:00",
-                "endTime": "16:30",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 28,
-                "assistant": "Zlata Shchedrikova",
-                "room": 320
-              },
-              {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
-                "numberOfStudents": 28,
-                "assistant": "Ivan Konyukhov",
-                "room": 320
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Data Structures and Algorithms  - (LAB)",
-                "numberOfStudents": 28,
-                "assistant": "Khaled Ismaeel",
-                "room": 320
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           }
@@ -1076,26 +1076,26 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Elective courses on Physical Education - (LAB)",
-                "numberOfStudents": 46,
-                "assistant": "Assistant7",
-                "room": 321
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Ali Belal Jnadi",
+                "room": 313
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Rustam Lukmanov",
+                "room": 321
               },
               {
                 "startTime": "18:00",
@@ -1113,34 +1113,34 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 46,
-                "assistant": "Zlata Shchedrikova",
-                "room": 321
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Data Structures and Algorithms  - (LAB)",
-                "numberOfStudents": 46,
-                "assistant": "Ali Belal Jnadi",
-                "room": 321
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
-                "numberOfStudents": 46,
-                "assistant": "Daniil Arapov",
-                "room": 300
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Ali Belal Jnadi",
+                "room": 307
               },
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 46,
-                "assistant": "Zlata Shchedrikova",
-                "room": 321
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Rustam Lukmanov",
+                "room": 307
               }
             ]
           },
@@ -1174,10 +1174,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 300
               }
             ]
           },
@@ -1187,55 +1187,18 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Theoretical Computer Science - (LAB)",
-                "numberOfStudents": 46,
-                "assistant": "Rustam Lukmanov",
-                "room": 307
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
-              },
-              {
-                "startTime": "16:30",
-                "endTime": "18:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
-              },
-              {
-                "startTime": "18:00",
-                "endTime": "19:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
-              }
-            ]
-          },
-          {
-            "day": "FRIDAY",
-            "periods": [
-              {
-                "startTime": "13:30",
-                "endTime": "15:00",
-                "lab": "English for Academic Purposes I - (LAB)",
-                "numberOfStudents": 46,
-                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
-                "room": 300
-              },
-              {
-                "startTime": "15:00",
-                "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Daniil Arapov",
+                "room": 321
               },
               {
                 "startTime": "16:30",
@@ -1249,9 +1212,46 @@
                 "startTime": "18:00",
                 "endTime": "19:30",
                 "lab": "Software Systems Analysis and Design - (LAB)",
-                "numberOfStudents": 46,
+                "numberOfStudents": 45,
                 "assistant": "Daniel Elambo Atonge",
                 "room": 321
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Zlata Shchedrikova",
+                "room": 307
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           }
@@ -1274,26 +1274,26 @@
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Data Structures and Algorithms  - (LAB)",
-                "numberOfStudents": 55,
-                "assistant": "Ali Belal Jnadi",
-                "room": 307
-              },
-              {
-                "startTime": "16:30",
-                "endTime": "18:00",
-                "lab": "Theoretical Computer Science - (LAB)",
-                "numberOfStudents": 55,
-                "assistant": "Rustam Lukmanov",
-                "room": 307
-              },
-              {
-                "startTime": "18:00",
-                "endTime": "19:30",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Daniel Elambo Atonge",
+                "room": 301
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Ali Belal Jnadi",
+                "room": 301
               }
             ]
           },
@@ -1303,10 +1303,10 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Rustam Lukmanov",
+                "room": 301
               },
               {
                 "startTime": "15:00",
@@ -1327,10 +1327,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
-                "numberOfStudents": 55,
-                "assistant": "Daniil Arapov",
-                "room": 307
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Zlata Shchedrikova",
+                "room": 316
               }
             ]
           },
@@ -1348,26 +1348,26 @@
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Software Systems Analysis and Design - (LAB)",
-                "numberOfStudents": 55,
-                "assistant": "Daniel Elambo Atonge",
-                "room": 307
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Ali Belal Jnadi",
+                "room": 316
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 301
               },
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Daniil Arapov",
+                "room": 316
               }
             ]
           },
@@ -1377,10 +1377,10 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Elective courses on Physical Education - (LAB)",
-                "numberOfStudents": 55,
-                "assistant": "Assistant8",
-                "room": 313
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Rustam Lukmanov",
+                "room": 316
               },
               {
                 "startTime": "15:00",
@@ -1401,10 +1401,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 55,
-                "assistant": "Zlata Shchedrikova",
-                "room": 307
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           },
@@ -1414,18 +1414,18 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 55,
-                "assistant": "Zlata Shchedrikova",
-                "room": 307
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "English for Academic Purposes I - (LAB)",
-                "numberOfStudents": 55,
-                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
-                "room": 307
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "16:30",
@@ -1464,26 +1464,26 @@
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Ikechi Kalu Ndukwe",
+                "room": 106
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 36,
-                "assistant": "Imre Delgado",
-                "room": 321
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Al Badr Amer",
+                "room": 307
               },
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 36,
-                "assistant": "Imre Delgado",
-                "room": 321
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           },
@@ -1509,10 +1509,10 @@
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Data Structures and Algorithms  - (LAB)",
-                "numberOfStudents": 36,
-                "assistant": "Ikechi Kalu Ndukwe",
-                "room": 321
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Sinan Ibrahim",
+                "room": 313
               },
               {
                 "startTime": "18:00",
@@ -1530,18 +1530,18 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "English for Academic Purposes I - (LAB)",
-                "numberOfStudents": 36,
-                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
-                "room": 321
-              },
-              {
-                "startTime": "15:00",
-                "endTime": "16:30",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Al Badr Amer",
+                "room": 307
               },
               {
                 "startTime": "16:30",
@@ -1554,10 +1554,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Elective courses on Physical Education - (LAB)",
-                "numberOfStudents": 36,
-                "assistant": "Assistant9",
-                "room": 321
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           },
@@ -1567,18 +1567,18 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Software Systems Analysis and Design - (LAB)",
-                "numberOfStudents": 36,
-                "assistant": "Sinan Ibrahim",
-                "room": 106
-              },
-              {
-                "startTime": "15:00",
-                "endTime": "16:30",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 307
               },
               {
                 "startTime": "16:30",
@@ -1591,10 +1591,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Marchuk Evgeniy",
+                "room": 307
               }
             ]
           },
@@ -1604,10 +1604,10 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
-                "numberOfStudents": 36,
-                "assistant": "Marchuk Evgeniy",
-                "room": 321
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Ikechi Kalu Ndukwe",
+                "room": 307
               },
               {
                 "startTime": "15:00",
@@ -1620,18 +1620,18 @@
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Theoretical Computer Science - (LAB)",
-                "numberOfStudents": 36,
-                "assistant": "Al Badr Amer",
-                "room": 300
-              },
-              {
-                "startTime": "18:00",
-                "endTime": "19:30",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Imre Delgado",
+                "room": 307
               }
             ]
           }
@@ -1646,25 +1646,25 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 35,
-                "assistant": "Ramil Nasibullin",
-                "room": 307
-              },
-              {
-                "startTime": "15:00",
-                "endTime": "16:30",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
               },
               {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Marina Lisnichenko",
+                "room": 107
+              },
+              {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Elective courses on Physical Education - (LAB)",
-                "numberOfStudents": 35,
-                "assistant": "Assistant6",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Oleg Bulichev",
                 "room": 313
               },
               {
@@ -1683,32 +1683,32 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Software Systems Analysis and Design - (LAB)",
-                "numberOfStudents": 35,
-                "assistant": "Marina Lisnichenko",
-                "room": 307
-              },
-              {
-                "startTime": "15:00",
-                "endTime": "16:30",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 35,
-                "assistant": "Ramil Nasibullin",
-                "room": 307
-              },
-              {
-                "startTime": "16:30",
-                "endTime": "18:00",
                 "lab": "*FREE*",
                 "numberOfStudents": null,
                 "assistant": null,
                 "room": null
               },
               {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 307
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 106
+              },
+              {
                 "startTime": "18:00",
                 "endTime": "19:30",
                 "lab": "Theoretical Computer Science - (LAB)",
-                "numberOfStudents": 35,
+                "numberOfStudents": 51,
                 "assistant": "Al Badr Amer",
                 "room": 313
               }
@@ -1744,10 +1744,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 307
               }
             ]
           },
@@ -1765,18 +1765,18 @@
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Al Badr Amer",
+                "room": 313
               },
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "English for Academic Purposes I - (LAB)",
-                "numberOfStudents": 35,
-                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
-                "room": 321
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "18:00",
@@ -1794,9 +1794,9 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
-                "numberOfStudents": 35,
-                "assistant": "Oleg Bulichev",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Ramil Nasibullin",
                 "room": 313
               },
               {
@@ -1818,10 +1818,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Data Structures and Algorithms  - (LAB)",
-                "numberOfStudents": 35,
-                "assistant": "Alaa Aldin Hajjar",
-                "room": 307
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           }
@@ -1836,18 +1836,18 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Ikechi Kalu Ndukwe",
+                "room": 300
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
-                "numberOfStudents": 34,
-                "assistant": "Marchuk Evgeniy",
-                "room": 308
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Ikechi Kalu Ndukwe",
+                "room": 105
               },
               {
                 "startTime": "16:30",
@@ -1860,10 +1860,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 34,
-                "assistant": "Imre Delgado",
-                "room": 308
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           },
@@ -1873,18 +1873,18 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Data Structures and Algorithms  - (LAB)",
-                "numberOfStudents": 34,
-                "assistant": "Ikechi Kalu Ndukwe",
-                "room": 308
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "Software Systems Analysis and Design - (LAB)",
-                "numberOfStudents": 34,
-                "assistant": "Sinan Ibrahim",
-                "room": 308
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "16:30",
@@ -1897,10 +1897,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Andrey Frolov",
+                "room": 106
               }
             ]
           },
@@ -1918,10 +1918,10 @@
               {
                 "startTime": "15:00",
                 "endTime": "16:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Marchuk Evgeniy",
+                "room": 313
               },
               {
                 "startTime": "16:30",
@@ -1934,10 +1934,10 @@
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Andrey Frolov",
+                "room": 321
               }
             ]
           },
@@ -1947,10 +1947,10 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Sinan Ibrahim",
+                "room": 300
               },
               {
                 "startTime": "15:00",
@@ -1963,18 +1963,18 @@
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "Theoretical Computer Science - (LAB)",
-                "numberOfStudents": 34,
-                "assistant": "Andrey Frolov",
-                "room": 308
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               },
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "English for Academic Purposes I - (LAB)",
-                "numberOfStudents": 34,
-                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
-                "room": 308
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           },
@@ -1984,10 +1984,10 @@
               {
                 "startTime": "13:30",
                 "endTime": "15:00",
-                "lab": "Elective courses on Physical Education - (LAB)",
-                "numberOfStudents": 34,
-                "assistant": "Assistant10",
-                "room": 308
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 321
               },
               {
                 "startTime": "15:00",
@@ -2000,18 +2000,18 @@
               {
                 "startTime": "16:30",
                 "endTime": "18:00",
-                "lab": "*FREE*",
-                "numberOfStudents": null,
-                "assistant": null,
-                "room": null
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Imre Delgado",
+                "room": 313
               },
               {
                 "startTime": "18:00",
                 "endTime": "19:30",
-                "lab": "Mathematical Analysis II - (LAB)",
-                "numberOfStudents": 34,
-                "assistant": "Imre Delgado",
-                "room": 308
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
               }
             ]
           }

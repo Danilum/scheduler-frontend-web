@@ -106,7 +106,7 @@
             </div>
 
             <div>
-              <button class="btn btn-success" v-on:click="GenerateTimeTable" style="position: relative;top: 50px;float: left; background-color: #f4511e;font-family: Montserrat;color:#fafafa;">
+              <button class="btn btn-success" v-on:click="AddCourse" style="position: relative;top: 50px;float: left; background-color: #f4511e;font-family: Montserrat;color:#fafafa;">
                 ADD NEW
               </button>
             </div>
@@ -189,6 +189,14 @@
               {
                 'start_time': '12:30',
                 'end_time': '14:00',
+                'courseName':'Compilers Construction',
+                'profName': 'Eugeny Zuev',
+                'format': 'Offline',
+                'roomnum': '104'
+              },
+              {
+                'start_time': '14:00',
+                'end_time': '15:30',
                 'courseName':'Compilers Construction',
                 'profName': 'Eugeny Zuev',
                 'format': 'Offline',

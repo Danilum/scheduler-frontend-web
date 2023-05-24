@@ -20,7 +20,7 @@
 
           <div class="generator-button" v-on:click="redirectToGenerator">
             <img src="@/assets/icons/timetable_generator.png" alt="Add logo" class="menu-icon">
-            Generator
+            Timetable
           </div>
         </div>
       </div>
