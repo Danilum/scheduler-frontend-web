@@ -1,0 +1,2022 @@
+[
+  {
+    "group": "BS-Year1",
+    "study": [
+      {
+        "day": "MONDAY",
+        "periods": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:30",
+            "subject": "Data Structures and Algorithms  - (LEC)",
+            "numberOfStudents": 60,
+            "instructor": "Nikolay Kudasov",
+            "room": 105
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Data Structures and Algorithms  - (TUT)",
+            "numberOfStudents": 60,
+            "instructor": "Nikolay Kudasov",
+            "room": 106
+          },
+          {
+            "startTime": "12:00",
+            "endTime": "13:30",
+            "subject": "Software Systems Analysis and Design - (LEC)",
+            "numberOfStudents": 84,
+            "instructor": "Evgeni Zouev",
+            "room": 108
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "periods": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:30",
+            "subject": "Software Systems Analysis and Design - (TUT)",
+            "numberOfStudents": 84,
+            "instructor": "Imam Muwaffaq",
+            "room": 106
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Elective courses on Physical Education",
+            "numberOfStudents": 51,
+            "instructor": "Professor1",
+            "room": 108
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "periods": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:30",
+            "subject": "Theoretical Computer Science - (LEC)",
+            "numberOfStudents": 89,
+            "instructor": "Manuel Mazzara",
+            "room": 106
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Theoretical Computer Science - (TUT)",
+            "numberOfStudents": 89,
+            "instructor": "Andrey Frolov",
+            "room": 106
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "periods": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:30",
+            "subject": "Analytical Geometry and Linear Algebra II - (LEC)",
+            "numberOfStudents": 58,
+            "instructor": "Yaroslav Kholodov",
+            "room": 107
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Analytical Geometry and Linear Algebra II - (TUT)",
+            "numberOfStudents": 58,
+            "instructor": "Yaroslav Kholodov",
+            "room": 105
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "periods": [
+          {
+            "startTime": "09:00",
+            "endTime": "10:30",
+            "subject": "Mathematical Analysis II - (LEC)",
+            "numberOfStudents": 96,
+            "instructor": "Oleg Kiselev",
+            "room": 107
+          },
+          {
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "subject": "Mathematical Analysis II - (TUT)",
+            "numberOfStudents": 96,
+            "instructor": "Imre Delgado",
+            "room": 108
+          }
+        ]
+      }
+    ],
+    "subGroupsTable": [
+      {
+        "subgroup": "B22-CS-05",
+        "study": [
+          {
+            "day": "MONDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Al Badr Amer",
+                "room": 300
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Oleg Bulichev",
+                "room": 300
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Ramil Nasibullin",
+                "room": 300
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Marina Lisnichenko",
+                "room": 300
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Al Badr Amer",
+                "room": 300
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 300
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 300
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 47,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 300
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-CS-04",
+        "study": [
+          {
+            "day": "MONDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 321
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Munir Makhmutov",
+                "room": 300
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Munir Makhmutov",
+                "room": 300
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 300
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Marko Pezer",
+                "room": 321
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 321
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Ramil Nasibullin",
+                "room": 300
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 37,
+                "assistant": "Ramil Nasibullin",
+                "room": 321
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-CS-03",
+        "study": [
+          {
+            "day": "MONDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Khaled Ismaeel",
+                "room": 307
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Khaled Ismaeel",
+                "room": 321
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Ramil Nasibullin",
+                "room": 321
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Munir Makhmutov",
+                "room": 321
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Ivan Konyukhov",
+                "room": 300
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Marko Pezer",
+                "room": 300
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 300
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 35,
+                "assistant": "Munir Makhmutov",
+                "room": 321
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-CS-02",
+        "study": [
+          {
+            "day": "MONDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Andrey Frolov",
+                "room": 301
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Zlata Shchedrikova",
+                "room": 301
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Ivan Konyukhov",
+                "room": 301
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Khaled Ismaeel",
+                "room": 301
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Khaled Ismaeel",
+                "room": 301
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Fahima Mokhtari",
+                "room": 301
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Andrey Frolov",
+                "room": 301
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 24,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 301
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-CS-01",
+        "study": [
+          {
+            "day": "MONDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Ivan Konyukhov",
+                "room": 104
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 104
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Khaled Ismaeel",
+                "room": 104
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Andrey Frolov",
+                "room": 104
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Zlata Shchedrikova",
+                "room": 104
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Fahima Mokhtari",
+                "room": 104
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Andrey Frolov",
+                "room": 104
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 20,
+                "assistant": "Khaled Ismaeel",
+                "room": 104
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-DSAI-01",
+        "study": [
+          {
+            "day": "MONDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Ali Belal Jnadi",
+                "room": 313
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Rustam Lukmanov",
+                "room": 321
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Ali Belal Jnadi",
+                "room": 307
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Rustam Lukmanov",
+                "room": 307
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 300
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Daniil Arapov",
+                "room": 321
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Daniel Elambo Atonge",
+                "room": 321
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 45,
+                "assistant": "Zlata Shchedrikova",
+                "room": 307
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-DSAI-02",
+        "study": [
+          {
+            "day": "MONDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Daniel Elambo Atonge",
+                "room": 301
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Ali Belal Jnadi",
+                "room": 301
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Rustam Lukmanov",
+                "room": 301
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Zlata Shchedrikova",
+                "room": 316
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Ali Belal Jnadi",
+                "room": 316
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 301
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Daniil Arapov",
+                "room": 316
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 22,
+                "assistant": "Rustam Lukmanov",
+                "room": 316
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-DSAI-03",
+        "study": [
+          {
+            "day": "MONDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Ikechi Kalu Ndukwe",
+                "room": 106
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Al Badr Amer",
+                "room": 307
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Sinan Ibrahim",
+                "room": 313
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Al Badr Amer",
+                "room": 307
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 307
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Marchuk Evgeniy",
+                "room": 307
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Ikechi Kalu Ndukwe",
+                "room": 307
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 52,
+                "assistant": "Imre Delgado",
+                "room": 307
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-CS-06",
+        "study": [
+          {
+            "day": "MONDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Marina Lisnichenko",
+                "room": 107
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Oleg Bulichev",
+                "room": 313
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 307
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Alaa Aldin Hajjar",
+                "room": 106
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Al Badr Amer",
+                "room": 313
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 307
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Al Badr Amer",
+                "room": 313
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 51,
+                "assistant": "Ramil Nasibullin",
+                "room": 313
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subgroup": "B22-DSAI-04",
+        "study": [
+          {
+            "day": "MONDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Ikechi Kalu Ndukwe",
+                "room": 300
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Data Structures and Algorithms  - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Ikechi Kalu Ndukwe",
+                "room": 105
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "TUESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Andrey Frolov",
+                "room": 106
+              }
+            ]
+          },
+          {
+            "day": "WEDNESDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "Analytical Geometry and Linear Algebra II - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Marchuk Evgeniy",
+                "room": 313
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "Theoretical Computer Science - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Andrey Frolov",
+                "room": 321
+              }
+            ]
+          },
+          {
+            "day": "THURSDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "Software Systems Analysis and Design - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Sinan Ibrahim",
+                "room": 300
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          },
+          {
+            "day": "FRIDAY",
+            "periods": [
+              {
+                "startTime": "13:30",
+                "endTime": "15:00",
+                "lab": "English for Academic Purposes I - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Gelvanovsky, Kruglova, Rednikova, Melnikova, Saduov, Marouf",
+                "room": 321
+              },
+              {
+                "startTime": "15:00",
+                "endTime": "16:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              },
+              {
+                "startTime": "16:30",
+                "endTime": "18:00",
+                "lab": "Mathematical Analysis II - (LAB)",
+                "numberOfStudents": 41,
+                "assistant": "Imre Delgado",
+                "room": 313
+              },
+              {
+                "startTime": "18:00",
+                "endTime": "19:30",
+                "lab": "*FREE*",
+                "numberOfStudents": null,
+                "assistant": null,
+                "room": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

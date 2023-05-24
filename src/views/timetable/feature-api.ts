@@ -1,4 +1,5 @@
-import myJson from "./response.json";
+// import myJson from "./response.json";
+import myJson from "./generator_response.json";
 import {
     DayOfWeeks,
     HoursOfDay, Period,

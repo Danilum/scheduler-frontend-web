@@ -64,13 +64,15 @@
 <script>
 import Button from '@/components/Button.vue'
 import router from '@/router';
+export let isLoggedIn = false;
 
 export default {
   name: "LoginView",
   components: { Button },
   methods:{
     redirectToAddCourse(){
-      router.push({ path: '../addcourse'})
+      isLoggedIn = true;
+      router.push({ path: '/addcourse'})
     }
   },
   setup() {
@@ -139,3 +141,4 @@ export default {
   width: 100%;
 }
 </style>
+

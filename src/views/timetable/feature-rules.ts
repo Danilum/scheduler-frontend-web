@@ -42,6 +42,7 @@ export interface TimeSlot {
 
 }
 
-export const DayOfWeeks = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+// export const DayOfWeeks = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+export const DayOfWeeks = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
 export const HoursOfDay = ["9:00 - 10:30","10:30 - 12:00", "12:00 - 13:30","13:30 - 15:00", "15:00 - 16:30", "16:30 - 18:00", "18:00 - 19:30" ]
 
